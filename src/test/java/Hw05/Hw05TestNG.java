@@ -1,4 +1,4 @@
-package Hw04;
+package Hw05;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
